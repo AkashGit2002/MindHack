@@ -1,7 +1,8 @@
 # MindHack Game
 
 
-                ![mind](https://user-images.githubusercontent.com/89854060/175658982-9184f335-d1a6-473c-9255-60a502cef349.svg)
+
+![mind](https://user-images.githubusercontent.com/89854060/175661023-63464bfb-4dcd-4a06-a271-8c960c6f5df9.svg)
 
 # Click Below link To Play
 https://verdant-salamander-cb1cbc.netlify.app/
